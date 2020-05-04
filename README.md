@@ -14,7 +14,7 @@ You can find the code of the server side code on this [link](https://github.com/
 
 ## Data
 
-Please complete [this form](https://research.hcilab.ml/agreement_st.docx), sign it and send it to the email addresses indicated in the form. We will send you a temporary link to your email with an anonymized version of the dataset.
+Please complete [this form](https://research.hcilab.ml/superturker/agreement_st.docx), sign it and send it to the email addresses indicated in the form. We will send you a temporary link to your email with an anonymized version of the dataset.
 
 ## Citation
 
