@@ -8,9 +8,13 @@ You can download the research paper from this [link](https://drive.google.com/op
 
 ## Code
 
-You can find the code of the Goohle Chrome extension on this [link](https://github.com/hcilabwvu/superturker/tree/master/extension)
+You can find the code of the Google Chrome extension on this [link](https://github.com/hcilabwvu/superturker/tree/master/extension)
 
 You can find the code of the server side code on this [link](https://github.com/hcilabwvu/superturker/tree/master/server)
+
+## Data
+
+Please complete [this form](https://research.hcilab.ml/agreement_st.docx), sign it and send it to the email addresses indicated in the form. We will send you a temporary link to your email with an anonymized version of the dataset.
 
 ## Citation
 
