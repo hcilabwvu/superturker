@@ -18,7 +18,7 @@ Through our research we collected data related to workers' wages and work practi
 Please complete [this form](https://research.hcilab.ml/superturker/agreement_st.docx), sign it and send it to the email addresses indicated in the form. We will send you a temporary link to your email with an anonymized version of the dataset.
 
 ## Citation
-Access the [Bibtext](https://scholar.googleusercontent.com/scholar.bib?q=info:7jmhW-OhyoYJ:scholar.google.com/&output=citation&scisdr=CgWZbZrvEOvksGOLa-A:AAGBfm0AAAAAXr2Oc-BPbXT3f_GWrJXms5L2I3OAettg&scisig=AAGBfm0AAAAAXr2OcyfNolTJKQ5jFV6kHxmA4gSb6TmN&scisf=4&ct=citation&cd=-1&hl=en)
+Access the [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:7jmhW-OhyoYJ:scholar.google.com/&output=citation&scisdr=CgWZbZrvEOvksGOLa-A:AAGBfm0AAAAAXr2Oc-BPbXT3f_GWrJXms5L2I3OAettg&scisig=AAGBfm0AAAAAXr2OcyfNolTJKQ5jFV6kHxmA4gSb6TmN&scisf=4&ct=citation&cd=-1&hl=en)
 
 Savage, Saiph, Chun Wei Chiang, Susumu Saito, Carlos Toxtli, and Jeffrey Bigham. "Becoming the Super Turker: Increasing Wages via a Strategy from High Earning Workers." In Proceedings of The Web Conference 2020, pp. 1241-1252. 2020.
 
