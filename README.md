@@ -9,7 +9,7 @@ You can download the research paper from this [link](https://drive.google.com/op
 
 ## Code: Web Plugin for Collecting Data about Workers' Wages. 
 
-We developed a Google Chrome extension to track and study workers' wages and work practices. You can download the code for this chrome extensuion on this [link](https://github.com/hcilabwvu/superturker/tree/master/extension)
+We developed a Google Chrome extension to track and study workers' wages and work practices. You can download the code for this chrome extensuion on this: [link](https://github.com/hcilabwvu/superturker/tree/master/extension)
 
 You will also need to deploy a server to collect and process the data You can find the code of the server side code on this [link](https://github.com/hcilabwvu/superturker/tree/master/server)
 
