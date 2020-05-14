@@ -24,3 +24,5 @@ Becoming the Super Turker: Following Transparency Criteria for Higher Wages
 Saiph Savage, Chun Wei Chiang, Susumu Saito, Carlos Toxtli and Jeffrey Bigham
 
 The Web Conferece (WWW) 2020, Taipei, Taiwan
+[Bibtext](https://scholar.googleusercontent.com/scholar.bib?q=info:7jmhW-OhyoYJ:scholar.google.com/&output=citation&scisdr=CgWZbZrvEOvksGOLa-A:AAGBfm0AAAAAXr2Oc-BPbXT3f_GWrJXms5L2I3OAettg&scisig=AAGBfm0AAAAAXr2OcyfNolTJKQ5jFV6kHxmA4gSb6TmN&scisf=4&ct=citation&cd=-1&hl=en)
+
